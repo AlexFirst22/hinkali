@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg");
+  background-size: cover;
+}
+
+.загаловак {
+  text-shadow: 5px 5px 5px #000000;
+  text-align: center;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.інгрідіенті {
+  color: #ffffff;
+  text-shadow: 5px 2px 5px #000000;
+  font-size: 20px;
+}
+
+.гатовка {
+  color: #ffffff;
+  position: absolute;
+  text-shadow: 5px 2px 5px #000000;
+  font-size: 16px;
+}
+
+.посилання {
+  color: #ffffff;
+  text-shadow: 5px 2px 5px #000000;
+  font-size: 16px;
+  position: absolute;
+  right: 10%;
+  top: 50%;
+}
